@@ -2,7 +2,6 @@
 <h3 align="center">An engineering graduate with a passion for data analytics</h3>
 
 - 👨‍💻 [**Portfolio Project**](https://www.mavenanalytics.io/profile/Chris-Barnett/87013525)
-
 - 📫 **cbarn040@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

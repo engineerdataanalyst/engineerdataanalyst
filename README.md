@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Barnett</h1>
+<h1 align="center">Hello There! 👋 I'm Chris Barnett</h1>
 <h3 align="center">An engineering graduate with a passion for data analytics</h3>
 
 - 👨‍💻 [**Portfolio Project**](https://www.mavenanalytics.io/profile/Chris-Barnett/87013525)

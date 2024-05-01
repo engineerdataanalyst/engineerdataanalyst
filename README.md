@@ -1,4 +1,4 @@
-<h1 align="left">Hello There! 👋 I'm Chris Barnett</h1>
+<h1 align="left">Hello There! 👋</h1>
 <p align="left"> I am an engineering graduate looking to break into the field of data analytics. <br>
                  I have a passion for helping businesses make data-driven decisions. </p>
 

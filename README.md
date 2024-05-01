@@ -1,5 +1,5 @@
 <h1 align="left">Hello There! 👋 I'm Chris Barnett</h1>
-<h3 align="left">An engineering graduate with a passion for data analytics</h3>
+<p align="left">An engineering graduate with a passion for data analytics</p>
 
 - 👨‍💻 [**Maven Analytics Portfolio**](https://www.mavenanalytics.io/profile/Chris-Barnett/87013525)
 - 👨‍💻 [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.barnett3765/vizzes)

@@ -1,5 +1,5 @@
 <h1 align="left">Hello There! 👋</h1>
-<p align="left"> Thank you for stopping by my GitHub Profile! <br> <br>
+<p align="left"> Thank you for visiting my GitHub Profile! <br> <br>
                  I am an engineering graduate looking to break into the field of data analytics and <br>
                  I have a passion for helping businesses make data-driven decisions. <br> <br>
                  I am interested in the fields of marketing, sales, and e-commerce because <br>

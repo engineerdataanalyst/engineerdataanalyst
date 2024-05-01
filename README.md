@@ -3,8 +3,10 @@
                  I have a passion for helping businesses make data-driven decisions. </p>
 
 <h3 alight="left">Here are links to my porfolio websites:</h3>
-<a href="https://www.mavenanalytics.io/profile/Chris-Barnett/87013525"><strong>Maven Analytics Portfolio</strong></a>
+<p>
+<a href="https://www.mavenanalytics.io/profile/Chris-Barnett/87013525"><strong>Maven Analytics Portfolio</strong></a> <br>
 <a href="https://public.tableau.com/app/profile/chris.barnett3765/vizzes"><strong>Tableau Public Portfolio</strong></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

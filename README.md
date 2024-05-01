@@ -2,7 +2,7 @@
 <p align="left"> I am an engineering graduate looking to break into the field of data analytics. <br>
                  I have a passion for helping businesses make data-driven decisions. </p>
 
-<h3 alight="left">Here are links to my porfolio websites:
+<h3 alight="left">Here are links to my porfolio websites:</h3>
 <a href="https://www.mavenanalytics.io/profile/Chris-Barnett/87013525"><strong>Maven Analytics Portfolio</strong></a>
 <a href="https://public.tableau.com/app/profile/chris.barnett3765/vizzes"><strong>Tableau Public Portfolio</strong></a>
 

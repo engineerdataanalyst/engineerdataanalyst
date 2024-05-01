@@ -1,6 +1,6 @@
 <h1 align="left">Hello There! 👋</h1>
 <p align="left"> Thank you for stopping by my GitHub Profile! <br>
-                 I am an engineering graduate looking to break into the field of data analytics. <br>
+                 I am an engineering graduate looking to break into the field of data analytics and <br>
                  I have a passion for helping businesses make data-driven decisions. </p>
 
 <h3 alight="left">Here are links to my porfolio websites:</h3>

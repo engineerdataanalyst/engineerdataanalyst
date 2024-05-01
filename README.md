@@ -1,7 +1,8 @@
 <h1 align="left">Hello There! 👋 I'm Chris Barnett</h1>
 <p align="left"> I am an engineering graduate looking to break into the field of data analytics. <br>
-                 I have a passion for helping businesses make data-driven decisions </p>
+                 I have a passion for helping businesses make data-driven decisions. </p>
 
+<p alight="left"> Here are links to my porfolio websites and my email: </p>
 - 👨‍💻 [**Maven Analytics Portfolio**](https://www.mavenanalytics.io/profile/Chris-Barnett/87013525)
 - 👨‍💻 [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.barnett3765/vizzes)
 - 📫 **cbarn040@gmail.com**

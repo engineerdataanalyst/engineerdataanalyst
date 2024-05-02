@@ -19,6 +19,6 @@
                         alt="https://www.linkedin.com/in/chris-b-79abbb125/" height="30" width="30" /> </a>
   </p>
 
-<h3 align="left">Tools that I am proficient in:</h3>
+
     <a href="https://i.imgur.com/m5DOC4b.png" target="_blank" rel="noreferrer">
     <img src="https://i.imgur.com/m5DOC4b.png" width="30" height="30"> </a>

@@ -20,5 +20,10 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-<a href="https://i.imgur.com/m5DOC4b.png" target="_blank" rel="noreferrer">
-<img src="https://i.imgur.com/m5DOC4b.png" width="30" height="30"> </a>
+<p>
+  <a href="https://i.imgur.com/m5DOC4b.png" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/m5DOC4b.png" width="30" height="30"> </a>
+
+  <a href="https://imgur.com/qaBHcYQ.png" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/qaBHcYQ.png" width="30" height="30"> </a>
+</p>

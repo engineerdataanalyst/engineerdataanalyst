@@ -18,5 +18,6 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-<a href="https://photos.onedrive.com/share/190CC22740FBED76!205863?cid=190CC22740FBED76&resId=190CC22740FBED76!205863&authkey=!ANUT7cxOvlsutuo&ithint=photo&e=3gl1Rh" target="_blank" rel="noreferrer"> <img src="https://photos.onedrive.com/share/190CC22740FBED76!205863?cid=190CC22740FBED76&resId=190CC22740FBED76!205863&authkey=!ANUT7cxOvlsutuo&ithint=photo&e=3gl1Rh">
+<a href="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" target="_blank" rel="noreferrer"> 
+<img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019%E2%80%93present.svg)">
 </a>

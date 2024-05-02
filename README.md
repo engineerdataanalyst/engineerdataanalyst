@@ -19,5 +19,5 @@
 <h3 align="left">Tools that I am proficient in:</h3>
 
 <a href="https://1drv.ms/i/s!Anbt-0AnwgwZjMgn1RPtzE6-Wy626g?e=FUbFlv">
-    <img src="https://1drv.ms/i/s!Anbt-0AnwgwZjMgn1RPtzE6-Wy626g?e=FUbFlv" alt="Excel Logo">
+    <img src="https://1drv.ms/i/s!Anbt-0AnwgwZjMgn1RPtzE6-Wy626g?e=FUbFlv">
 </a>

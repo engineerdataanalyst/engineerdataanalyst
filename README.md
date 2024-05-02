@@ -26,4 +26,7 @@
 
   <a href="https://imgur.com/qaBHcYQ.png" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/qaBHcYQ.png" width="30" height="30"> </a>
+
+  <a href="https://i.imgur.com/8JkVXxY.png" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/8JkVXxY.png" width="30" height="30"> </a>
 </p>

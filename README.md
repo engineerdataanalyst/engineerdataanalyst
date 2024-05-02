@@ -18,4 +18,5 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-<a target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg"> </a>
+<a target="_blank" rel="noreferrer">
+<img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" alt="excel" width="40" height="40"> </a>

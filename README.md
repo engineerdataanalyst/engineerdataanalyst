@@ -18,4 +18,4 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-![Image Alt Text](Excel_Logo.png)
+![Image Alt Text](C:\Users\cwbar\OneDrive\Pictures\README%20images\Excel%20Logo.png)

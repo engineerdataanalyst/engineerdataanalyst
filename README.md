@@ -18,4 +18,4 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-<p> ![Excel Logo](C:\Users\cwbar\OneDrive\Pictures\README images\Excel Logo.png) </p>
+![Excel Logo](C:\Users\cwbar\OneDrive\Pictures\README images\Excel Logo.png)

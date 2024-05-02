@@ -18,4 +18,4 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-![Image Alt Text](Excel Logo.png)
+![Image Alt Text](Excel_Logo.png)

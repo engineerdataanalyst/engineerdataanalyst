@@ -18,6 +18,6 @@
 
 <h3 align="left">Tools that I am proficient in:</h3>
 
-<a href="https://1drv.ms/i/s!Anbt-0AnwgwZjMgn1RPtzE6-Wy626g?e=FUbFlv">
-    <img src="https://1drv.ms/i/s!Anbt-0AnwgwZjMgn1RPtzE6-Wy626g?e=FUbFlv">
+<a href="https://photos.onedrive.com/share/190CC22740FBED76!205863?cid=190CC22740FBED76&resId=190CC22740FBED76!205863&authkey=!ANUT7cxOvlsutuo&ithint=photo&e=3gl1Rh" target="_blank">
+    <img src="https://photos.onedrive.com/share/190CC22740FBED76!205863?cid=190CC22740FBED76&resId=190CC22740FBED76!205863&authkey=!ANUT7cxOvlsutuo&ithint=photo&e=3gl1Rh">
 </a>

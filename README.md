@@ -12,7 +12,7 @@
   <a href="https://public.tableau.com/app/profile/chris.barnett3765/vizzes"><strong>Tableau Public Portfolio</strong></a>
 </p>
 
-<h3 align="left">Connect with me on LinkedIn!</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/chris-b-79abbb125/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"

@@ -21,8 +21,8 @@
   <a href="https://i.imgur.com/8JkVXxY.png" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/8JkVXxY.png" width="30" height="30"> </a>
 
-  <a href="https://imgur.com/D7bEscP" target="_blank" rel="noreferrer">
-  <img src="https://imgur.com/D7bEscP" width="30" height="30"> </a>
+  <a href="https://i.imgur.com/D7bEscP.png" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/D7bEscP.png" width="30" height="30"> </a>
   
   <a href="https://i.imgur.com/LIaT2jO.png" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/LIaT2jO.png" width="30" height="30"> </a>

@@ -6,7 +6,7 @@
 
 <h3 alight="left">Here are links to my porfolio websites:</h3>
 <p>
-  <a href="https://www.mavenanalytics.io/profile/Chris-Barnett/87013525"><strong>Maven Analytics Portfolio</strong></a> <br>
+  <a href="https://mavenshowcase.com/profile/a82103a0-4011-7016-7470-e9d41602306f"><strong>Maven Analytics Portfolio</strong></a> <br>
   <a href="https://public.tableau.com/app/profile/chris.barnett3765/vizzes"><strong>Tableau Public Portfolio</strong></a>
 </p>
 

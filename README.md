@@ -1,6 +1,7 @@
 <h1 align="left">Hello There! 👋</h1>
 <p align="left"> Thank you for visiting my GitHub Profile! <br> <br>
                  I have a passion for helping businesses make data-driven decisions. <br>
+  
                  I love studying customers to help businesses grow and become successful.
 </p>
 

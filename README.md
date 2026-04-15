@@ -10,7 +10,13 @@ I love studying customers to help businesses grow and become successful.
 [**Tableau Public Portfolio**](https://public.tableau.com/app/profile/chris.barnett3765/vizzes)
 
 ### Tools that I am proficient in:
-[![Excel](https://i.imgur.com/m5DOC4b.png)](https://i.imgur.com/m5DOC4b.png) [![MySQL](https://i.imgur.com/qaBHcYQ.png)](https://imgur.com/qaBHcYQ.png) [![PowerBI](https://i.imgur.com/D7bEscP.png)](https://i.imgur.com/D7bEscP.png) [![Tableau](https://i.imgur.com/8JkVXxY.png)](https://i.imgur.com/8JkVXxY.png) [![Python](https://i.imgur.com/LIaT2jO.png)](https://i.imgur.com/LIaT2jO.png) [![MATLAB](https://i.imgur.com/Y1QiQw4.png)](https://i.imgur.com/Y1QiQw4.png)
+
+<a href="https://i.imgur.com/m5DOC4b.png"><img src="https://i.imgur.com/m5DOC4b.png" height="25" alt="Excel"></a>
+<a href="https://imgur.com/qaBHcYQ.png"><img src="https://i.imgur.com/qaBHcYQ.png" height="25" alt="MySQL"></a>
+<a href="https://i.imgur.com/D7bEscP.png"><img src="https://i.imgur.com/D7bEscP.png" height="25" alt="PowerBI"></a>
+<a href="https://i.imgur.com/8JkVXxY.png"><img src="https://i.imgur.com/8JkVXxY.png" height="25" alt="Tableau"></a>
+<a href="https://i.imgur.com/LIaT2jO.png"><img src="https://i.imgur.com/LIaT2jO.png" height="25" alt="Python"></a>
+<a href="https://i.imgur.com/Y1QiQw4.png"><img src="https://i.imgur.com/Y1QiQw4.png" height="25" alt="MATLAB"></a>
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">

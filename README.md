@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub Profile!
 
-I have a passion for helping businesses make data-driven decisions.
+I have a passion for helping businesses make data-driven decisions. <br>
 I love studying customers to help businesses grow and become successful.
 
 ### Here are the links to my other portfolios:

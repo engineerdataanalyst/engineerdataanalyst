@@ -13,22 +13,22 @@
 <h3 align="left">Tools that I am proficient in:</h3> 
 <p>
   <a href="https://i.imgur.com/m5DOC4b.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/m5DOC4b.png" width="30" height="30"> </a> 
+  <img src="https://i.imgur.com/m5DOC4b.png" width="30" height="30"> 
   
   <a href="https://imgur.com/qaBHcYQ.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/qaBHcYQ.png" width="30" height="30"> </a>
+  <img src="https://i.imgur.com/qaBHcYQ.png" width="30" height="30">
   
   <a href="https://i.imgur.com/D7bEscP.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/D7bEscP.png" width="30" height="30"> </a>
+  <img src="https://i.imgur.com/D7bEscP.png" width="30" height="30">
 
   <a href="https://i.imgur.com/8JkVXxY.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/8JkVXxY.png" width="30" height="30"> </a>
+  <img src="https://i.imgur.com/8JkVXxY.png" width="30" height="30">
   
   <a href="https://i.imgur.com/LIaT2jO.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/LIaT2jO.png" width="30" height="30"> </a>
+  <img src="https://i.imgur.com/LIaT2jO.png" width="30" height="30">
   
   <a href="https://i.imgur.com/Y1QiQw4.png" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/Y1QiQw4.png" width="30" height="30"> </a>
+  <img src="https://i.imgur.com/Y1QiQw4.png" width="30" height="30">
 </p>
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
